@@ -14,8 +14,8 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Ziegler22)](https://github.com/Andreas-Ziegler22/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Ziegler22&langs_count=10)](https://github.com/Andreas-Ziegler22/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Ziegler22&langs_count=10)](https://github.com/Andreas-Ziegler22/github-readme-stats)
+ -->
 <!--
 **Andreas-Ziegler22/Andreas-Ziegler22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
