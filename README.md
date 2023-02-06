@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+I'm Andreas Ziegler looking forward to become an outstanding Full Stack Web Developer. when I am not working I'm coding! 
 
-
-## My Stack
+###### My Stack
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
